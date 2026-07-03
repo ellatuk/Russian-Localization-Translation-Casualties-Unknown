@@ -3,7 +3,8 @@
   
   # 🔦 Russian Localization — Casualties: Unknown
   
-  **Русская локализация игры *Casualties: Unknown* от разработчика Orsoniks.** Перевод выполнен: **ellatuk** (me UwQ).
+  **Русская локализация игры *Casualties: Unknown* от разработчика Orsoniks.** 
+  Перевод выполнен: **ellatuk** (me UwQ).
 </div>
 
 ---
