@@ -1,54 +1,55 @@
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzI0NDU0NzkyLnBuZw==/original/QJQxzn.png" alt="Логотип Casualties: Unknown" width="600">
-  <br><br>
+  
+  # 🔦 Russian Localization — Casualties: Unknown
+  
+  **Русская локализация игры *Casualties: Unknown* от разработчика Orsoniks.** Перевод выполнен: **ellatuk** (me UwQ).
 </div>
-
-<br>
-
-<h1 align="center">🔦 Russian Localization — Casualties: Unknown</h1>
-
-<p align="center">
-  <strong>Русская локализация игры <em>Casualties: Unknown</em> от разработчика <strong>Orsoniks</strong>.</strong><br>
-  <em>Перевод выполнен <strong>ellatuk</strong> (me UwQ).</em>
-</p>
 
 ---
 
 ## 🎮 Об игре
 
+<div align="center">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg" alt="Баннер игры" width="460">
+</div>
 
-> *Спуститесь в недра пещерной сети Целевой Планеты, чтобы добыть критически важный груз, сталкиваясь на пути с ужасающими препятствиями и проблемами к вящему огорчению вашего персонажа. Шансы на выживание близки к 0% — готовьтесь умирать снова и снова.*
+> *Спуститесь в недра пещерной сети Целевой Планеты, чтобы добыть критически важный груз, сталкиваясь на пути с ужасающими препятствиями. Шансы на выживание близки к 0% — готовьтесь умирать снова и снова.*
 
-**Casualties: Unknown** — это жестокий симулятор исследования пещер. Вы один из тысячи подопытных, отправленных на смерть. В поисках потерянного груза вам придётся пробраться через **11 подземных ярусов** на чужой планете, давая отпор беспощадному окружению.
+**Casualties: Unknown** — это жестокий симулятор выживания в пещерах. Вы — один из тысяч подопытных, отправленных на верную смерть. Вам предстоит преодолеть **11 подземных ярусов** и дать отпор беспощадному окружению.
 
-### Ключевые особенности игры
-- **Обширная модель организма** — сердечно-сосудистая система, перевязка ран, инфекции, кровопотеря, потеря сознания
-- 🧠 **Психологическое состояние** — депрессия влияет на выживание
-- 🛠️ **Крафт и ресурсы** — добывайте всё необходимое из окружения
-- 📦 **300+ предметов** для обнаружения
-- 🧑‍🤝‍🧑 **Три уникальных персонажа** со своим стилем игры
-- ⚙️ **Настройка сложности** — регулируйте показатели добычи и опасности
-- 🎓 **Рекомендуется пройти обучение** перед спуском
+### Основные механики:
+- 🧬 **Биология:** Детальная модель организма (раны, инфекции, кровотечения).
+- 🧠 **Психология:** Ментальное состояние напрямую влияет на успех выживания.
+- 🛠️ **Крафт:** Используйте всё, что найдете в окружении, чтобы выжить.
+- 📦 **Контент:** Более 300 уникальных предметов.
+- 👥 **Персонажи:** Три уникальных героя с разными стилями игры.
+- ⚙️ **Гибкость:** Настраиваемая сложность и параметры мира.
+
+> [!TIP]
+> **Рекомендуется:** Поплачь перед первым спуском! Потом не будет времени.
 
 ---
 
-## 🔗 Ссылки
+## 🔗 Полезные ссылки
 
-- 🛒 [Steam (демо)](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/)
-- 🎒 [Itch.io (устарело)](https://orsonik.itch.io/scav-prototype)
-- 💬 [Discord сервер](https://discord.gg/orsoniks)
-- 🎵 [Оригинальный саундтрек](https://orsonik.itch.io/scav-prototype)
+| Ресурс | Ссылка |
+| :--- | :--- |
+| 🛒 **Steam** | [Демо-версия игры](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) |
+| 🎒 **Itch.io** | [Страница проекта](https://orsonik.itch.io/scav-prototype) |
+| 💬 **Discord** | [Сервер сообщества](https://discord.gg/orsoniks) |
+| 🎵 **OST** | [Оригинальный саундтрек](https://orsonik.itch.io/scav-prototype) |
 
 ---
 
 ## 📥 Установка перевода
 
-1. Скачайте мой файл `RU.json` из этого репозитория.
-2. Поместите его в папку `Lang`, которая находится по пути:  
+1. **Скачайте** файл `RU.json` из данного репозитория.
+2. **Переместите** файл в папку игры по пути:  
    `Casualties Unknown Demo\CasualtiesUnknown_Data\Lang`
-3. Запустите игру — и выберите в настройках мой перевод.
+3. **Запустите** игру и выберите русский язык в настройках.
 
+> [!NOTE]
 > Если папка `Lang` отсутствует (как так вышло?), создайте её вручную.
 
 ---
@@ -60,36 +61,28 @@
 А как выходит, так выходит :)
 
 **В переводе мне помогают:**  
-🎵 музыка, 📚 словари, 💭 личный опыт, 🍵 зелёный чай.
+🎵 музыка, 📚 словари, 💭 личный опыт, 🍵 зелёный чай
 
-> ⚠️ *Перевод ещё не завершён. Следите за обновлениями репозитория.*
+**Прогресс перевода:** <progress value="3" max="100"></progress> **3%**
 
-**Прогресс перевода:** <progress value="3" max="100"></progress> примерно 3%
+> ⚠️ *Перевод находится в активной разработке. Следите за обновлениями репозитория!*
 
-Мои другие переводы можно найти тут на GitHub и на Nexus
-- [Nexus](https://www.nexusmods.com/profile/ellatuk)
-- [GitHub ](https://github.com/ellatuk)
+**Мои другие переводы можно найти тут:** [GitHub](https://github.com/ellatuk) | [Nexus Mods](https://www.nexusmods.com/profile/ellatuk)
 
 ---
 
-### 🎞️ Геймплейные моменты
+## 🎞️ Геймплей
 
 <div align="center">
   <img src="Xlam%20Don't%20look!/75c161aa11d713c9a8da32cca80adf4d.gif" width="780" alt="Gameplay 1">
-  <br><br>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="Xlam%20Don't%20look!/b3884ced84ba6d0a433d7dbdf284ab7.gif" width="460" alt="Gameplay 2">
-    <img src="Xlam%20Don't%20look!/4fcbd793385f447abfaf27a4750ea84c.gif" width="460" alt="Gameplay 3">
-  </div>
+  <br>
+  <img src="Xlam%20Don't%20look!/b3884ced84ba6d0a433d7dbdf284ab7.gif" width="380" alt="Gameplay 2">
+  <img src="Xlam%20Don't%20look!/4fcbd793385f447abfaf27a4750ea84c.gif" width="380" alt="Gameplay 3">
 </div>
 
 ---
 
-## 🏷️ Игровые теги
+## 🏷️ Теги
+`2D` `Dark` `Furry` `Perma Death` `Physics` `Pixel Art` `Procedural Generation` `Singleplayer` `Violent`
 
-`2D` `Dark` `Furry` `Perma Death` `Physics` `Pixel Art` `Procedural Generation` `Singleplayer` `Violent`  
-*No generative AI was used.*
-
----
-
-*Спасибо Orsoniks за замечательную игру!*
+*No generative AI was used.* *Спасибо Orsoniks за замечательную игру!*
