@@ -64,6 +64,8 @@
 
 > ⚠️ *Перевод ещё не завершён. Следите за обновлениями репозитория.*
 
+**Прогресс перевода:** <progress value="3" max="100"></progress> примерно 3%
+
 Мои другие переводы можно найти тут на GitHub и на Nexus
 - [Nexus](https://www.nexusmods.com/profile/ellatuk)
 - [GitHub ](https://github.com/ellatuk)
@@ -74,8 +76,11 @@
 
 <div align="center">
   <img src="Xlam%20Don't%20look!/75c161aa11d713c9a8da32cca80adf4d.gif" width="780" alt="Gameplay 1">
-  <img src="Xlam%20Don't%20look!/b3884ced84ba6d0a433d7dbdf284ab7.gif" width="460" alt="Gameplay 2">
-  <img src="Xlam%20Don't%20look!/4fcbd793385f447abfaf27a4750ea84c.gif" width="460" alt="Gameplay 3">
+  <br><br>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="Xlam%20Don't%20look!/b3884ced84ba6d0a433d7dbdf284ab7.gif" width="460" alt="Gameplay 2">
+    <img src="Xlam%20Don't%20look!/4fcbd793385f447abfaf27a4750ea84c.gif" width="460" alt="Gameplay 3">
+  </div>
 </div>
 
 ---
