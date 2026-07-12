@@ -82,9 +82,12 @@
   <img src="Xlam%20Don't%20look!/4fcbd793385f447abfaf27a4750ea84c.gif" width="380" alt="Gameplay 3">
 </div>
 
----
+
 
 ## 🏷️ Теги
 `2D` `Dark` `Furry` `Perma Death` `Physics` `Pixel Art` `Procedural Generation` `Singleplayer` `Violent`
+*No generative AI was used.* 
 
-*No generative AI was used.* *Спасибо Orsoniks за замечательную игру!*
+---
+
+*Спасибо Orsoniks за замечательную игру!*
