@@ -848,7 +848,7 @@
         "fibrillation1": "Аритмия",
         "fibrillation2": "Желудочковая тахикардия",
         "fibrillation3": "Фибрилляция желудочков",
-        "palpitations": "Тахикардия",
+        "palpitations": "Учащённое сердцебиение",
         "cardiacarrest": "Остановка сердца",
         "hypoventilation1": "Лёгкая гиповентиляция",
         "hypoventilation2": "Гиповентиляция",
@@ -997,7 +997,7 @@
         "clawdamage1": "Затупленные когти",
         "clawdamage2": "Сломанные когти",
         "keratinbooster": "Ускоренное восстановление",
-        "impendingdoom": "Чувство надвигающейся гибели",
+        "impendingdoom": "Чувство неминуемой гибели",
         "horrified": "УЖАС",
         "focused": "КОНЦЕНТРАЦИЯ",
 
