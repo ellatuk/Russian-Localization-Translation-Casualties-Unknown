@@ -2,6 +2,9 @@
   <img src="https://img.itch.zone/aW1nLzI0NDU0NzkyLnBuZw==/original/QJQxzn.png" alt="Логотип Casualties: Unknown" width="600">
   
   # 🔦 Russian Localization — Casualties: Unknown
+[![Версия перевода](https://img.shields.io/badge/Версия_перевода-v7.0.1(Demo)-8274d5.svg?style=flat-square)](https://github.com/ellatuk/Russian-Localization-Translation-Casualties-Unknown)
+[![Прогресс перевода](https://img.shields.io/badge/Прогресс-~85%25-5550c4.svg?style=flat-square)](https://github.com/ellatuk/Russian-Localization-Translation-Casualties-Unknown)
+[![Версия игры](https://img.shields.io/badge/Игра-v7.7.9(Demo)-6589b9.svg?style=flat-square)](https://store.steampowered.com/app/4576490/Casualties_Unknown/)
   
   **Русская локализация игры *Casualties: Unknown* от разработчика Orsoniks.** 
     <br>
@@ -70,9 +73,19 @@
 **В переводе мне помогают:**  
 🎵 музыка, 📚 словари, 💭 личный опыт, 🍵 зелёный чай
 
-**Прогресс перевода:** <progress value="9" max="100"></progress> **9%**
+---
 
-> ⚠️ *Перевод находится в активной разработке. Следите за обновлениями репозитория!*
+## 📊 Прогресс локализации
+
+Общий перевод ![Прогресс перевода](https://geps.dev/progress/65)
+<br>
+Предметы ![Прогресс перевода предметов](https://geps.dev/progress/100)
+<br>
+Настройки ![Прогресс перевода настроек](https://geps.dev/progress/100)
+<br>
+Записки, диалоги ![Прогресс перевода словечек](https://geps.dev/progress/18)
+
+> ⚠️ *Перевод находится в активной разработке. Следите за обновлениями, хотя пользоваться уже можно.*
 
 **Мои другие переводы можно найти тут:** [GitHub](https://github.com/ellatuk) | [Nexus Mods](https://www.nexusmods.com/profile/ellatuk)
 
@@ -89,8 +102,9 @@
 
 
 
-## 🏷️ Теги
+## 🏷️ Теги игры Casualties: Unknown
 `2D` `Dark` `Furry` `Perma Death` `Physics` `Pixel Art` `Procedural Generation` `Singleplayer` `Violent`
+<br>
 *No generative AI was used.* 
 
 ---
